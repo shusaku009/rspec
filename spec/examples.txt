@@ -1,7 +1,8 @@
 example_id                  | status | run_time        |
 --------------------------- | ------ | --------------- |
-./spec/age_spec.rb[1:1:1:1] | passed | 0.00007 seconds |
-./spec/age_spec.rb[1:1:2:1] | passed | 0.00008 seconds |
+./spec/age_spec.rb[1:1:1:1] | passed | 0.00008 seconds |
+./spec/age_spec.rb[1:1:2:1] | passed | 0.0005 seconds  |
 ./spec/age_spec.rb[1:2:1:1] | passed | 0.00008 seconds |
-./spec/age_spec.rb[1:2:2:1] | passed | 0.00047 seconds |
-./spec/hello_spec.rb[1:1]   | passed | 0.00005 seconds |
+./spec/age_spec.rb[1:2:2:1] | passed | 0.00007 seconds |
+./spec/hello_spec.rb[1:1]   | passed | 0.00058 seconds |
+./spec/omikuji_spec.rb[1:1] | passed | 0.00112 seconds |
